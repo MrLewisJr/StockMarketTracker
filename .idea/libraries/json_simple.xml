@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="json simple">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Desktop/json simple" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Desktop/json simple" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Desktop/json simple" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Desktop/json simple" recursive="false" type="SOURCES" />
+  </library>
+</component>
